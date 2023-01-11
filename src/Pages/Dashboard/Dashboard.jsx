@@ -4,7 +4,7 @@ const Dashboard = () => {
   return (
     <React.Fragment>
       <marquee>
-        <h1>Animation Demo</h1>
+        <h1>Animation Demo..</h1>
       </marquee>
     </React.Fragment>
   );
